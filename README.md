@@ -1,6 +1,6 @@
-# CURL: Contrastive Unsupervised Representation Learning for Sample-Efficient Reinforcement Learning
+# Semi-supervised Learning Convolutional Soft Actor-Critic
 
-This repository is the official implementation of [CURL](https://mishalaskin.github.io/curl/) for the DeepMind control experiments. Atari experiments were done in a separate codebase available [here](https://github.com/aravindsrinivas/curl_rainbow). Our implementation of SAC is based on [SAC+AE](https://github.com/denisyarats/pytorch_sac_ae) by Denis Yarats. 
+This repository is the implementation Semi-supervised Learning Convolutional Soft Actor-Critic which start from the official implementation of [CURL](https://mishalaskin.github.io/curl/) for the DeepMind control experiments. Atari experiments were done in a separate codebase available [here](https://github.com/aravindsrinivas/curl_rainbow).
 
 ## Installation 
 
